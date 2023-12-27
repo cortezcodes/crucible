@@ -1,4 +1,4 @@
-Cabal-version: 2.2
+Cabal-version: 3.6
 Name:          uc-crux-llvm
 Version:       0.3
 Author:        Galois Inc.

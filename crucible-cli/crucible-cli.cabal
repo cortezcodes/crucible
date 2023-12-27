@@ -1,4 +1,4 @@
-Cabal-version: 2.2
+cabal-version: 3.6
 Name:          crucible-cli
 Version:       0.1
 Author:        Galois Inc.
@@ -8,6 +8,7 @@ License:       BSD-3-Clause
 License-file:  LICENSE
 Category:      Language
 Synopsis:      A library for sharing code between Crucible CLI frontends
+
 -- Description:
 
 extra-doc-files: README.md
